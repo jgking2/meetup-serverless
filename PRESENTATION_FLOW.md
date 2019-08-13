@@ -1,6 +1,12 @@
 ## WHY
 
-See benefits
+Benefits:
+
+* No server management
+* Scales automatically
+* Pay only while your code runs
+* Runs code in response to events
+* Connects and extends cloud services
 
 ## WHAT
 
