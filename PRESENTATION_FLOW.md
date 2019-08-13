@@ -22,8 +22,11 @@ Figure out what to demo, probably use AWS to demo - maybe generate something wit
 
 ### Add helpful resources to share
 
-> Cloud links (AWS, Azure, Google Cloud)
-> Serverless
-> Terraform
-> etc.
-> Any blog posts?
+* Cloud links (AWS, Azure, Google Cloud)
+  * AWS Lambda: https://aws.amazon.com/serverless/
+  * Google Cloud Functions: https://cloud.google.com/functions/
+  * Azure Functions: https://azure.microsoft.com/en-us/services/functions/
+* Serverless: https://serverless.com/
+* Terraform
+* Blog Posts: https://hackernoon.com/@theburningmonk
+
