@@ -1,5 +1,5 @@
 {
-    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.deploySubpath": "azure",
     "azureFunctions.projectLanguage": "JavaScript",
     "azureFunctions.projectRuntime": "~2",
     "debug.internalConsoleOptions": "neverOpen",

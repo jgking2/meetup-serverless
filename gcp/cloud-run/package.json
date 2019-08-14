@@ -1,0 +1,16 @@
+{
+  "name": "cloud-run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "package": "gcloud builds submit --tag gcr.io/house-que-staging/meetup-serverless",
+    "deploy": "gcloud beta run deploy --image gcr.io/house-que-staging/meetup-serverless:latest --platform managed"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.7.1"
+  }
+}
